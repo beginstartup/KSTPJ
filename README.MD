@@ -20,30 +20,26 @@ for us.I think every programing language is base on theory and functionl Math.
 
 ```
 	:x  //qiut and save
-
 ```
 	:q  //quit
-
 ```
 	pass Enter
+
 ```
 * 4.git init
 * 5.git add README.MD  // want u all file add commend is -git add *
 * 6.git commit -m "commit massage"
-* 7.git remote add origin < your create GiHub repo link > * //eq:[My Repo](https://github.com/beginstartup/KSTPJ)
-```
+* 7.git remote add origin < your create GiHub repo link > * //eq:  [My Repo](https://github.com/beginstartup/KSTPJ)
 * 8.and than type urser name and password 
 * 9.git push origin master
 * 10.well done thank u
 
+
 ```
 ### Remark .. Don't forget first time create github repo
 
-
-
-
 ```
-###	Thank for reading my text. 
+ Thank for reading my text. 
 
 ```
 ###	Kyawsithu
